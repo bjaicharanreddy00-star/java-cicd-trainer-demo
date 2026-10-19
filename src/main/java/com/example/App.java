@@ -3,7 +3,7 @@ package com.example;
 /** A tiny application used to demonstrate a Java CI pipeline. */
 public class App {
     public String message() {
-        return "Hello, CI/CD!";
+        return "Java CI pipeline is working!";
     }
 
     public static void main(String[] args) {
